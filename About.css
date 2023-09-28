@@ -1,0 +1,81 @@
+.About_section {
+  display: flex;
+  padding: 0 200px 0 200px;
+}
+.About_section img{
+  margin-top: 40px;
+}
+.About_section p {
+  display: flex;
+  margin-top: 80px;
+  padding-right: 20px;
+}
+h1 {
+  text-align: center;
+}
+.About_section button {
+  display: flex;
+  padding: 12px 60px 12px 60px;
+  border: 1px solid blueviolet;
+  margin-top: 30px;
+  cursor: pointer;
+  border-radius: 2px;
+  background-color: blueviolet;
+  color: white;
+}
+.About_section button:hover {
+  border: 1px blueviolet solid;
+  color: blueviolet;
+  background-color: transparent;
+  transition: all 0.5s ease-in-out;
+  background-color: white;
+}
+hr {
+  width: 195px;
+  margin-left: 575px;
+  border: 1px solid blueviolet;
+  margin-top: 10px;
+}
+.About-section-bottom {
+  display: flex;
+  margin: 0 1px 0 20px;
+}
+.About-section3 h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+.About-section3 p {
+  padding: 0 280px 0 280px;
+  text-align: center;
+  margin-bottom: 50px;
+}
+.About-section-bottom h1 {
+  margin-top: 100px;
+}
+.About-section-bottom img{
+    margin-top: 100px;
+    width: 1300px;
+    height: 400px;
+    margin-left: 150px;
+  }
+.About-large-section {
+  margin-left: 300px;
+  margin-top: 100px;
+  margin-right: 150px;
+}
+.About-large-section h1{
+  text-align: left;
+}
+.About-large-section h4 {
+  margin: 10px 0 20px 0;
+}
+.About-section3  {
+  margin-top: 100px;
+}
+.check_about{
+    margin-top: 20px;
+}
+.check_about p{
+    margin-bottom: 10px;
+    font-weight: bold;
+}
